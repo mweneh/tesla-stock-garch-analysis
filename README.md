@@ -1,1 +1,3 @@
 # tesla-stock-garch-analysis
+
+A financial time series analysis project focused on modeling and forecasting Tesla (TSLA) stock price volatility using GARCH (Generalized Autoregressive Conditional Heteroskedasticity) models. This repository implements statistical techniques to analyze volatility patterns, understand risk dynamics, and provide insights into the conditional variance of Tesla stock returns.
